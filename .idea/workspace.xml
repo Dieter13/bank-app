@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c97af11b-2664-4d2a-88c4-27159d359e7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y56ePNQP0k7OeP4oz16ZWCzd4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="bank.app" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bank-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank.app" />
+      <option name="MAIN_CLASS_NAME" value="bank.app.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.shouldReturnAccountOverDrawn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bank-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank.app" />
+      <option name="MAIN_CLASS_NAME" value="bank.app.AccountTest" />
+      <option name="METHOD_NAME" value="shouldReturnAccountOverDrawn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bank-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank.app" />
+      <option name="MAIN_CLASS_NAME" value="bank.app.BankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bank.app in bank-app" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="bank-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bank.app" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.AccountTest.shouldReturnAccountOverDrawn" />
+        <item itemvalue="JUnit.BankTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c97af11b-2664-4d2a-88c4-27159d359e7a" name="Default Changelist" comment="" />
+      <created>1582220202411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582220202411</updated>
+      <workItem from="1582220203779" duration="1787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="54" key="#Project_Structure" timestamp="1582222010831">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="240" y="54" key="#Project_Structure/0.23.1280.729@0.23.1280.729" timestamp="1582222010831" />
+    <state x="212" y="29" key="#bank.app_in_bank-app" timestamp="1582221569319">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="212" y="29" key="#bank.app_in_bank-app/0.23.1280.729@0.23.1280.729" timestamp="1582221569319" />
+    <state x="256" y="62" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582221344388">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="256" y="62" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.729@0.23.1280.729" timestamp="1582221344388" />
+    <state width="1234" height="181" key="GridCell.Tab.0.bottom" timestamp="1582222080840">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1234" height="181" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1582222080840" />
+    <state width="1234" height="181" key="GridCell.Tab.0.center" timestamp="1582222080839">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1234" height="181" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1582222080839" />
+    <state width="1234" height="181" key="GridCell.Tab.0.left" timestamp="1582222080839">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1234" height="181" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1582222080839" />
+    <state width="1234" height="181" key="GridCell.Tab.0.right" timestamp="1582222080840">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1234" height="181" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1582222080840" />
+    <state x="419" y="123" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582221829747">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="419" y="123" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.729@0.23.1280.729" timestamp="1582221829747" />
+  </component>
+</project>
